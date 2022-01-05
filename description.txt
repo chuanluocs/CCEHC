@@ -1,0 +1,21 @@
+Software Name: CCEHC 
+
+Version: 2016.10.04.10
+
+Authors: Chuan Luo [1][2], Shaowei Cai [3], Kaile Su [4][5], Wenxuan Huang [6]
+
+Institutes: [1] Institute of Computing Technology, Chinese Academy of Sciences, Beijing 100190, China
+			[2] State Key Laboratory of Mathematical Engineering and Advanced Computing, Wuxi 214125, China
+            [3] State Key Laboratory of Computer Science, Institute of Software, Chinese Academy of Sciences, Beijing 100190, China
+            [4] College of Information Science and Technology, Jinan University, Guangzhou 510632, China
+            [5] Institute for Integrated and Intelligent Systems, Griffith University, Brisbane 4111, Australia
+            [6] Department of Material Science and Engineering, Massachusetts Institute of Technology, MA 02139, USA
+
+If you have any questions about CCEHC, please email to chuanluosaber@gmail.com.
+
+Corresponding Paper:
+Chuan Luo, Shaowei Cai, Kaile Su, Wenxuan Huang. CCEHC: An Efficient Local Search Algorithm for Weighted Partial Maximum Satisfiability. Artificial Intelligence 243: 26-44 (2017).
+
+
+Notice: The operating system for compiling and running the CCEHC solver should be 64-bit GNU/Linux.
+            
